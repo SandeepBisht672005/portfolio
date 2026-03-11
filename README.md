@@ -94,8 +94,8 @@ Python • Scikit-learn • Pandas • TF-IDF • Tkinter
 
 ## 📄 Resume
 
-Download Resume:
-Sandeep_Bisht_Resume.pdf
+📥 Download My Resume  
+[Sandeep_Bisht_Resume.pdf](Sandeep_Bisht_Resume.pdf)
 
 ---
 
