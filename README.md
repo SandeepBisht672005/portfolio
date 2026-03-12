@@ -8,7 +8,7 @@ Computer Science Engineering Student | Web Developer | Machine Learning Enthusia
 
 ## 🚀 Live Portfolio
 
-🔗 https://sandeepbisht.loveable.app
+🔗 https://sandeepbisht.lovable.app
 
 ---
 
